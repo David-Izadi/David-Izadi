@@ -1,12 +1,16 @@
-<h1 align="center">Hello, I'm David Izadi </h1>
+<h1 align="center">Hi, I'm David Izadi </h1>
 
 <p align="center">
 CS @ Georgia Tech · Systems/Architecture & AI · Building infrastructure that other engineers rely on
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/davidizadi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dizadi6@gatech.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/davidizadi/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
+  </a>
+  <a href="mailto:davidizadi1605@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="45" height="45" />
+  </a>
 </p>
 
 ---
@@ -17,7 +21,7 @@ CS @ Georgia Tech · Systems/Architecture & AI · Building infrastructure that o
 - M.S. Computer Science — Georgia Tech, Dec 2027
 - Software Developer Intern @ IBM — built Kubernetes/OpenSearch infrastructure in Go
 - Interested in backend infrastructure, distributed systems, and developer tooling
-- Georgia Tech Club Tennis - Men's Captain 25-26, Vice President 26-27
+- Georgia Tech Club Tennis — Men's Captain (2025-26), Vice President (2026-27)
 
 ---
 
@@ -145,7 +149,7 @@ CS @ Georgia Tech · Systems/Architecture & AI · Building infrastructure that o
 **[NutriCast](https://github.com/s4kv/NutriCast)** — Mobile-first nutrition & wellness app with AI-powered photo-based meal logging
 `Java` `Spring Boot` `MongoDB` `React Native` `OpenAI GPT-4` `Google Maps API`
 
-**[AI Agents for Financial Data Analysis](https://github.com/YOUR_USERNAME/ai-agents-financial-analysis)** — Time-series forecasting (LSTM, NHITS, PatchTST, ARIMA) combined with an AI agent architecture for market prediction
+**AI Agents for Financial Data Analysis** — Time-series forecasting (LSTM, NHITS, PatchTST, ARIMA) combined with an AI agent architecture for market prediction
 `Python` `NeuralForecast` `Pandas` `NumPy`
 
 ---
