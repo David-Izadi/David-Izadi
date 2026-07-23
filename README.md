@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm David Izadi   <a href="https://www.linkedin.com/in/davidizadi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" /></a>
- </h1>
+<h1 align="center">Hi, I'm David Izadi </h1>
 
 <p align="center">
 CS @ Georgia Tech · Systems/Architecture & AI · Building infrastructure that other engineers rely on
@@ -7,6 +6,10 @@ CS @ Georgia Tech · Systems/Architecture & AI · Building infrastructure that o
 
 <p align="center">
 <img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/624dbec8-06f1-4113-9497-3979685085db" />
+</p>
+
+<p align="center">
+Connect with Me:&nbsp;&nbsp;dizadi6@gatech.edu&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/davidizadi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" /></a>
 </p>
 
 ---
