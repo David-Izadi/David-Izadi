@@ -1,16 +1,12 @@
-<h1 align="center">Hi, I'm David Izadi </h1>
+<h1 align="center">Hi, I'm David Izadi   <a href="https://www.linkedin.com/in/davidizadi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" /></a>
+ </h1>
 
 <p align="center">
 CS @ Georgia Tech · Systems/Architecture & AI · Building infrastructure that other engineers rely on
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/davidizadi/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
-  </a>
-  <a href="mailto:davidizadi1605@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="45" height="45" />
-  </a>
+<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/624dbec8-06f1-4113-9497-3979685085db" />
 </p>
 
 ---
